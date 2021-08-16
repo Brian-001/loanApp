@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MaishaBora1</string>
+    <string name="rate">Rate</string>
+    <string name="maisha_bora_microfinance">Maisha Bora Microfinance</string>
+    <string name="loan_request">Loan Request</string>
+    <string name="amount">Amount</string>
+    <string name="interest_payable">Interest Payable</string>
+    <string name="fifteen_percent">15%</string>
+    <string name="eight_percent">8%</string>
+    <string name="default_percent">0%</string>
+    <string name="cumulative_amount_payable">Cumulative Amount payable</string>
+</resources>

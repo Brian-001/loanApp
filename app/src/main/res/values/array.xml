@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="loan_types">
+            <item>Term</item>
+            <item>Long-term</item>
+            <item>Short-term</item>
+        </string-array>
+</resources>
